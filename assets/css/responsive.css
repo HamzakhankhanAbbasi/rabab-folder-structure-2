@@ -1,0 +1,1181 @@
+
+@media only screen and (max-width:1660px){
+	header {
+		z-index: 999;
+	}
+
+}
+@media only screen and (max-width:1440px){
+	header {
+		z-index: 999;
+	}
+	.fuelBannerCard {
+		max-width: 480px;
+	}
+}
+@media only screen and (max-width:1330px){
+	.client-card {
+    	padding: 50px 25px;
+	}
+}
+@media only screen and (max-width:1366px){}
+@media only screen and (max-width:1280px){
+	.aboutBannerCard {
+		max-width: 260px;
+		bottom:-133px !important;
+	}
+	.fuelBannerCard {
+		max-width: 335px;
+	}
+	.indexSection1 .right-center {
+		max-width: 300px;
+		max-height: 250px;
+	}
+	.footerTop .leftWrap .boldTitle {
+		font-size: 30px;
+	}
+	.aboutBanner .aboutBannerCard{
+		max-width: 450px;
+    	bottom: -120px;
+	}
+	.aboutSecThree .bottomImg {
+		top: 45%;
+		max-width: 550px;
+	}
+	.aboutSecThree .listing li {
+		font-size: 16px;
+	}
+	.indexSection1 .bannerContent .boldTitle {
+		font-size: 45px;
+	}
+	.indexSection1 .car {
+		min-width: 600px;
+		max-width: 600px;
+	}
+	.indexSection1 .swapper {
+		min-width: 370px;
+		max-width: 370px;
+	}
+	.indexSection1 .cards {
+		max-width: 370px;
+	}
+	.indexSection4 .mainDesc {
+		margin: 20px auto 50px auto;
+	}
+}
+@media only screen and (max-width:1200px){
+  	.index-3-tabs-wrap .tab-pane form .form-info-card {
+    	padding: 20px 30px 20px 30px;
+	}
+}
+@media only screen and (max-width:1060px){
+	.custom-nav ul > li > a {
+	    font-size: 14px;
+	}
+}
+@media only screen and (max-width:1024px){
+	.footerTop .leftWrap .boldTitle {
+		font-size: 28px;
+		margin-bottom: 20px;
+	}
+	.indexSection3 .cardWrap .cardInner .title {
+		font-size: 18px;
+	}
+	.indexSection3 .cardWrap .cardInner {
+		height: 100%;
+		padding: 15px 25px;
+	}
+	.aboutSecTwo .rightImgWrap .absImgMiddle {
+		max-width: 160px;
+		min-height: 160px;
+		max-height: 160px;
+	}
+	.aboutSecTwo .rightImgWrap .absImgBottom {
+		max-width: 160px;
+		min-width: 160px;
+		min-height: 160px;
+		max-height: 160px;
+	}
+	.aboutSecFour .rightImgWrap .extraTop {
+		max-width: 170px;
+		min-width: 170px;
+		min-height: 170px;
+		max-height: 170px;
+	}
+	.serviceSectionFive .allFeatures {
+		justify-content: space-around;
+	}
+	.rightContent .boldTitle {
+		font-size: 30px;
+	}
+	.aboutBannerCard {
+		max-width: 260px;
+		bottom:-120px !important;
+	}
+	.stellarnav .menu-toggle span.bars {
+	    display: inline-block;
+	    margin-right: 0.5px;
+	    position: relative;
+	    top: 1px;
+	}
+	.stellarnav .menu-toggle span.bars span{
+		background: #fff;
+	}
+	.menu-toggle {
+	    background: #000;
+	    border-radius: 100%;
+	    width: 40px;
+	    height: 40px;
+	    display: flex !important;
+	    justify-content: center;
+	    align-items: center;
+	    position: fixed;
+	    right: 20px;
+	    top: 50px;
+	}
+	.custom-nav.stellarnav.mobile li a {
+    	border-bottom: none;
+	}
+	.custom-nav.stellarnav.mobile li {
+    	border-bottom: 1px solid rgba(255,255,255,.15);
+		margin-left:0;
+	}
+	.custom-nav.stellarnav .icon-close:after, .stellarnav .icon-close:before{
+		border-color: #fff;
+	}
+	.custom-nav.mobile ul {
+        background: rgba(0,0,0,0.9);
+        border-radius: 0;
+	}
+	.custom-nav ul > li{
+    	height: 60px;
+	}
+	.custom-nav ul > li > a{
+		color: #fff;
+	    font-size: 14px;
+    	font-weight: 400;
+    	height: 60px;
+    	display: flex;
+    	align-items: center;
+	}
+	.custom-nav ul > li > a,
+	.custom-nav ul li a {
+    	padding: 13px 15px !important;
+	}
+	.custom-nav ul li a i{
+		display: none;
+	}
+	.custom-nav .dd-toggle {
+    	top: -5px;
+	}
+	.custom-nav a.dd-toggle .icon-plus:after, 
+	.custom-nav a.dd-toggle .icon-plus:before{
+		border-color: #fff;
+	}
+	.custom-nav li.open>a.dd-toggle .icon-plus:after,
+	.custom-nav li.open>a.dd-toggle .icon-plus:before{
+		border-color: var(--theme-color-1);
+	}
+	.custom-nav .cart-btn{
+		width: 50px;
+	}
+	.custom-nav ul .cart-btn span {
+	    right: 6px;
+	    bottom: 30px;
+	}
+	/*INDEX PAGE*/
+	.index-3-tabs-wrap .tab-pane form .form-info-card .heading {
+    	font-size: 16px;
+	}
+	.index-sec-8 {
+    	padding: 80px 0 100px 0;
+	}
+	.index-sec-8 .text-col{
+		width: 100%;
+	}
+	.clients-slider-wrap{
+	  position: relative;
+	  max-width: 1200px;
+	  margin: 50px auto 0 auto;
+	  width: 100%;
+	  top: auto;
+	  transform: none;
+	  padding: 0 15px;
+	}
+	/*ABOUT PAGE*/
+	.about-3-text p {
+    	font-size: 15px;
+	}
+	.about-3-text .heading {
+    	font-size: 32px;
+	}
+	.about-3-card-wrap .index-2-card p {
+	    font-size: 16px;
+	    font-weight: 600;
+	}
+	.about-sec-3 .about-3-right {
+	    position: relative;
+	    width: 100%;
+	    height: 400px;
+	    background-position: center;
+	}
+	.about-sec-3 {
+    	padding: 70px 0 0 0;
+	}
+	.about-3-text {
+	    max-width: 100%;
+	    padding-bottom: 70px;
+	}
+	.aboutBanner .aboutBannerCard {
+		max-width: 400px;
+	}
+	.aboutSecThree .bottomImg {
+		top: 40%;
+		max-width: 450px;
+	}
+	.aboutSecThree .listing li {
+		font-size: 14px;
+		display: flex;
+	}
+}
+@media only screen and (max-width:991px){
+	.footerTop .leftWrap .boldTitle {
+		font-size: 28px;
+		margin-bottom: 20px;
+	}
+	.aboutSecFour .rightContent {
+		margin-top: 30px;
+	}
+	.serviceSectionSix .benefitsList {
+		flex-wrap:nowrap;
+	}
+	.benefitsContent .desc {
+		max-width:245px;
+	}
+	.blog-text1 {
+		font-size: 14px;
+	}
+	.fuelCardSectionFour .innerDesc ul li {
+		font-size: 14px;
+	}
+	.fuelCardSectionThree {
+		padding: 40px 0 10px 0;
+		min-height: 600px;
+		height: 100%;
+	}
+	.protectionDetails {
+		margin-top: 20px;
+	}
+	.fuelBannerCard {
+		max-width: 285px;
+		bottom: -120px !important;
+	}
+	.footerLinks {
+		text-align: center;
+	}
+	footer .footer-middle .footerGroup .text {
+		margin-bottom: 10px;
+	}
+	.indexSection5 {
+		padding: 35px 0;
+	}
+	.indexSection1 .swapper {
+		min-width: 350px;
+		max-width: 350px;
+	}
+	.indexSection1 .bannerContent .boldTitle {
+		font-size: 36px;
+	}
+	.indexSection6 {
+		padding: 30px 0;
+	}
+	.indexSection3 .cardWrap .cardInner .title {
+		font-size: 18px;
+	}
+	.indexSection3 .cardWrap .cardInner ul li {
+		margin-bottom: 0px;
+	}
+	/*INDEX PAGE*/
+	.index-banner-slider .swiper-slide {
+    	padding: 200px 0 140px 0;
+	}
+	.index-banner-slider .swiper-pagination {
+    	bottom: 65px;
+	}
+	.index-sec-2 {
+    padding-top: 100px;
+    padding-bottom: 250px;
+	}
+	.index-2-text{
+		margin-bottom: 50px;
+	}
+	.index-2-text .heading {
+    	font-size: 40px;
+	}
+	.index-2-card{
+		margin-bottom: 40px;
+	}
+	.index-3-tabs-wrap .tab-pane form .form-info-card {
+    	padding: 30px 40px 22px 40px;
+	}
+	.index-3-tabs-wrap .tab-pane form .form-info-card .heading {
+    	font-size: 21px;
+	}
+	.index-3-tabs-wrap .tab-pane form .form-info-card .apply-btn{
+		margin-top: 15px;
+	}
+	.index-banner-text .heading {
+    	font-size: 46px;
+	}
+	.index-5-text{
+		max-width: 100%;
+		padding: 200px 0 50px 0;
+	}
+	.index-sec-5 .img-box{
+		text-align: center;
+	}
+	.index-8-text{
+		margin-bottom: 50px;
+	}
+	.index-8-text .heading {
+    	font-size: 34px;
+	}
+	.client-card {
+    	padding: 30px 30px;
+	}
+	.index-sec-8 {
+    	padding: 70px 0 80px 0;
+	}
+	/*FOOTER*/
+	.footer-top .footer-logo{
+		text-align: center;
+		margin-bottom: 30px;
+	}
+	.footer-top .subscribe-form p {
+    	text-align: center;
+    	margin-bottom: 15px;
+	}
+	.footer-top .subscribe-form p br{
+		display: none;
+	}
+	.footer-middle{
+		padding-top: 55px;
+	}
+	.footer-group-1{
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	.footer-group-1 p{ 
+		max-width: 100%;
+	}
+	.footer-group .footer-social{
+		justify-content: center;
+	}
+	/*CONTACT PAGE*/
+	.contact-2-text{
+		padding-bottom: 30px;
+		max-width: 100%;
+    	display: flex;
+    	flex-wrap: wrap;
+	}
+	.contact-2-text > div{
+		width: 50%;
+		padding-right: 20px;
+	}
+	.inner-gen-banner {
+    	min-height: 550px;
+	}
+	/*ABOUT PAGE*/
+	.about-sec-2 .index-4-text{
+		padding-left: 0;
+		padding-bottom: 30px;
+	}
+	.about-sec-2 .index-4-text .heading {
+	    font-size: 34px;
+	    line-height: 1.2;
+	    max-width: 100%;
+	}
+	.about-sec-2 .text-box{
+		padding-left: 20px;
+	}
+}
+@media only screen and (max-width:910px){
+	.footerTop .leftWrap .boldTitle{
+		font-size: 25px;
+		margin-bottom: 20px;
+	}
+	.footerTop .rightWrap .cards {
+		max-width: 176px;
+		bottom: 9%;
+	}
+	.footerTop .rightWrap .right-center {
+		max-width: 250px;
+	}
+	.indexSection6 .blogWRap .blogImg .date {
+		width: 80px;
+		height: 80px;
+	}
+	.indexSection3 .cardWrap .cardInner .title {
+		font-size: 16px;
+	}
+	.indexSection3 .cardWrap .cardInner .ellipse {
+		width: 100px;
+		height: 100px;
+		left: -40px;
+		top: -15px;
+	}
+	.indexSection3 .cardWrap .cardInner ul li {
+		margin-bottom: 5px;
+	}
+	.indexSection3 .cardWrap .cardInner {
+		padding: 40px 10px;
+	}
+	.indexSection2 .imgWrap .creditCard {
+		right: -5%;
+	}
+	.indexSection6 .blogWRap .blogImg .date {
+		bottom: -26%;
+		left: -11%;
+	}
+	.aboutSecFour .rightContent {
+		margin-top: 50px;
+	}
+	.aboutSecThree .bottomImg {
+		top: 40%;
+		max-width: 380px;
+	}
+	.aboutSecThree .rightContent .text {
+		font-size: 15px;
+	}
+	.aboutSecTwo .rightContent .text {
+		font-size: 15px;
+	}
+	.serviceSectionSix .benefitsList .benefitsContent {
+		padding: 10px 10px 10px 0;
+	}
+	.serviceSectionSix .benefitsList {
+		max-width: 366px;
+	}
+	.serviceSectionFour .cardDetail img {
+		max-width: 330px;
+		min-height: 150px;
+		max-height: 150px;
+	}
+	.serviceSectionFour .cardDetail .title {
+		text-align: center;
+	}
+	.servicesList .item .title {
+		font-size: 20px;
+	}
+	.servicesList .item .icon {
+		max-width: 80px;
+		min-width: 80px;
+		max-height: 80px;
+		min-height: 80px;
+	}
+	.servicesList .item .desc {
+		font-size: 14px;
+	}	
+	.rightContent .boldTitle {
+		font-size: 22px;
+	}
+	.servicesMainWrap .servicesBanner .aboutBannerCard {
+		max-width: 300px;
+		bottom: -74px !important;
+	}
+	.blog-text1 {
+		font-size: 13px;
+		padding: 15px 0px 20px 5px;
+	}
+	.blog-card-footer ul {
+		padding: 12px 5px 0px 0px;
+		margin: 0 10px;
+	}	
+	.blog-text2 {
+		font-size: 14px;
+	}
+	.cardProcess .title {
+		font-size: 18px;
+	}
+	.fuelCardSectionThree {
+		padding: 40px 0 10px 0;
+		min-height: 600px;
+		height: 100%;
+	}
+	.protectionDetails {
+		margin-top: 20px;
+	}
+	.indexSection5 {
+		padding: 35px 0;
+	}
+	.indexSection1 .cards {
+		max-width: 285px;
+	}
+	.indexSection4 .mainDesc .boldTitle {
+		font-size: 30px;
+	}
+	.cd-card {
+		max-width: 280px;
+	}
+	.indexSection4 .imgWrap::before {
+		max-width: 195px;
+		bottom: 1%;
+	}
+	.indexSection1 .right-center {
+		max-width: 250px;
+		max-height: 250px;
+	}
+}
+@media only screen and (max-width:767px){
+	.servicesMainWrap .servicesBanner .aboutBannerCard {
+		bottom: -92px !important;
+	}
+	.rightImgWrap .card-hold {
+		max-width: 280px;
+		margin: 0 auto;
+		display: flex;
+	}
+	.fuelCardSectionFour .innerDesc {
+		margin: 0 auto;
+		text-align: center;
+	}
+	.card-hold {
+		max-width: 280px;
+	}
+	.centerCard .center {
+		max-width: 285px;
+		margin: 0 0 15px 0;
+	}
+	.fuelCardSectionThree .innerDesc {
+		margin-bottom: 40px;
+	}
+	.protectionDetails {
+		max-width: 300px;
+		margin: 0 auto 20px;
+		text-align: center;
+	}
+	.cardProcess .content {
+		font-size: 14px;
+		font-weight: 500;
+		color: #8f8f8f;
+		max-width: 300px;
+		margin: 0 auto 20px;
+	}
+	.cardProcess .icon img {
+		max-width: 70px;
+	}
+	footer .footer-middle .footerGroup .text {
+		max-width: 250px;
+		text-align: center;
+		margin: 0 auto 20px;
+	}
+	footer .footer-middle .logo {
+		margin-bottom: 20px;
+		background: none;
+	}
+	.foot-lgo {
+		max-width: 175px;
+		background: #fff;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+		margin: 0 auto;
+		object-fit: cover;
+		object-position: center;
+	}
+	.indexSection4 .advantages {
+		max-width: 300px;
+		margin: 20px auto;
+		text-align: center;
+	}
+	.indexSection4 .advantages .heading {
+		justify-content: center;
+	}
+	.cd-card {
+		max-width: 280px;
+		margin: 40px auto 40px;
+	}
+	.indexSection4 .imgWrap::before {
+		display:none;
+	}
+	.indexSection2 .imgWrap .creditCard {
+		right: 13%;
+	}
+	.indexSection2 .imgWrap {
+		text-align: center;
+	}
+	.rightContent .boldTitle {
+		font-size: 20px;
+	}
+	.aboutSecFour .rightContent .text {
+		font-size: 15px;
+	}
+	.aboutSecFour .rightImgWrap {
+		margin-top: 80px;
+	}
+	.aboutSecTwo {
+		padding: 110px 0;
+	}
+	.aboutSecThree .bottomImg {
+		top: 100%;
+	}
+	.aboutSecFour {
+		padding: 240px 0 150px;
+	}
+	.aboutSecFour .rightContent {
+		align-items: center;
+		justify-content: center;
+	}
+	.aboutSecFour .rightImgWrap .relImg {
+		margin: 0 auto;
+	}
+	.aboutSecTwo .rightImgWrap .relImg {
+		margin: 0 auto;
+	}	
+	.serviceSectionFive {
+		padding: 50px 0 50px 0;
+	}
+	.serviceSectionFive .content {
+		margin-bottom: 80px;
+	}
+	.serviceSectionFour .rightContent {
+		margin: 20px auto 30px auto;
+	}
+	.serviceSectionFour {
+		min-height: 100%;
+		max-height: 100%;
+		padding: 10px 0;
+	}
+	.servicesSectinoTwo {
+		padding: 40px 0;
+	}
+	.servicesSectinoTwo .allServices {
+		margin-top: 20px;
+	}
+	.servicesSectinoTwo .leftImgWrap img {
+		min-height: 300px;
+		max-height: 300px;
+	}
+	.serviceSectionSix .benefitsList {
+		max-width: 440px;
+		margin: 0 auto 30px;
+	}
+	.serviceSectionSix {
+		padding-bottom: 10px;
+	}
+	.aboutBannerCard {
+		max-width: 220px;
+		bottom: -95px !important;
+	}
+	.blog-card {
+		text-align: center;
+		max-width: 400px;
+		margin: 0 auto;
+	}
+	.blog-text1 {
+		font-size: 15px;
+		padding: 15px 0px 20px 5px;
+	}
+	.fuelBannerCard {
+		max-width: 238px;
+		bottom: -100px !important;
+	}
+	.fuelCardSectionFour {
+		padding: 20px 0;
+	}
+	.indexSection3 .actions {
+		justify-content: center;
+	}
+	.indexSection3 .cardWrap .cardInner .ellipse {
+		display: none;
+	}
+	.indexSection3 .cardWrap .cardInner {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+	.indexSection3::before {
+		max-height: 100%;
+		height: 100%;
+	}
+	.indexSection3 .cardWrap {
+		max-width: 322px;
+		max-height: 330px;
+		min-height: 330px;
+		margin: 0 auto 30px;
+	}
+	.indexSection3 {
+		min-height: 100%;
+		max-height: 100%;
+	}
+	.indexSection4 {
+		padding: 50px 0;
+	}
+	.footerTop .rightWrap .cards {
+		display: none;
+	}
+	.footerTop .rightWrap .right-center {
+		display: none;
+	}
+	.indexSection1 .car {
+		min-width: 350px;
+		max-width: 350px;
+	}
+	.indexSection6 .blogWRap .blogImg .date {
+		bottom: -18%;
+		left: 22%;
+	}
+	.blogWRap {
+		text-align: center;
+		margin-bottom: 10px;
+	}
+	.indexSection1 .cards {
+		max-width: 230px;
+	}
+	.indexSection1 .car {
+		min-width: 500px;
+		max-width: 500px;
+	}
+	.indexSection1 .swapper {
+		min-width: 230px;
+		max-width: 230px;
+		bottom: 7%;
+	}
+	.indexSection1 .bannerContent .boldTitle {
+		font-size: 31px;
+	}
+	/*INDEX PAGE*/
+	.index-3-tabs-wrap .nav-link {
+    	font-size: 16px;
+	}
+	.index-3-tabs-wrap .nav-link span img{
+		max-width: 35px;
+	}
+	.index-4-text .text-box{
+		margin: 30px 0 0 0;
+	}
+	.index-4-text {
+    	padding-left: 30px;
+	}
+	/*FOOTER*/
+	.footer-group-4 {
+    	margin-top: 40px;
+	}
+	.index-sec-4 .img-box{
+		margin-top: 40px;
+	}
+}
+@media only screen and (max-width:660px){
+	.login-modal{
+		min-height: auto;
+		padding-top: 140px;
+	}
+	.login-modal .modal-logo{
+		width: 212px;
+    	height: 45px;
+		background: url(../images/logo.png);
+		background-size: cover;
+		margin-bottom: 20px;
+	}
+	.login-modal button.slide-button {
+    	padding: 10px 30px;
+	}
+	.login-modal .overlay{
+		width: 100%;
+	    height: 100%;
+	    left: 0;
+	    top: 0;
+	    transform: none !important;
+	}
+	.login-modal .overlay-panel h1,
+	.login-modal .overlay-panel p{
+		display: none;
+	}
+	.login-modal .overlay-container{
+		width: 100%;
+		left: 0;
+		height: 150px;
+	}
+	.login-modal .overlay-panel{
+		width: 100%;
+	}
+	.login-modal .sign-up-container,
+	.login-modal .sign-in-container {
+    	width: 100%;
+    	padding: 30px 0;
+	}
+	.login-modal .sign-up-container{
+		position: absolute;
+		transform: translateY(-100%);
+	}
+	.login-modal .sign-in-container{
+		position: relative;
+	}
+	.login-modal.right-panel-active .sign-in-container {
+	  	transform: translateY(100%);
+	  	position: absolute;
+	}
+	.login-modal.right-panel-active .sign-up-container {
+	  	transform: none;
+	  	position: relative;
+	  	transform: translateY(0%);
+	} 
+	.login-modal .overlay-left {
+    	transform: translateY(-100%);
+	}
+	.login-modal .overlay-right{
+    }
+	.login-modal.right-panel-active .overlay-left{
+		transform: translateY(0%);
+	}
+	.login-modal.right-panel-active .overlay-right{
+		transform: translateY(-100%);
+	}
+	.login-modal.right-panel-active .overlay-container {
+    	transform: none;
+	}
+}
+@media only screen and (max-width:575px){
+	.servicesSectinoTwo .allServices {
+		margin-left: 0;
+	}
+	.aboutSecFour .rightImgWrap .extraTop {
+		max-width: 150px;
+		min-width: 150px;
+		min-height: 150px;
+		max-height: 150px;
+	}
+	.pagination-2 .page-number {
+		padding: 8px 15px;
+	}	
+	.footerTop .leftWrap .boldTitle {
+		font-size: 22px;
+	}
+	.indexSection2 .imgWrap .creditCard {
+		right: 9%;
+	}
+	.imgWrap .creditCard {
+		min-width: 200px;
+		max-width: 200px;
+	}
+	.aboutSecThree .bottomImg {
+		max-width:280px;
+	}	
+	.aboutBanner .aboutBannerCard {
+		max-width: 300px;
+	}
+	.aboutSecFour {
+		padding: 240px 0 65px;
+	}	
+	.aboutSecFour .rightImgWrap .relImg {
+		max-width: 400px;
+		min-height: 400px;
+		max-height: 400px;
+	}
+	.aboutSecFour .rightContent {
+		margin-top: 80px;
+	}
+	.benefitsContent .desc {
+		font-size: 13px;
+	}
+	.innerBannerContent .desc {
+		max-width: 370px;
+	}
+	.innerBannerContent .desc {
+		font-size: 14px;
+	}
+	.innerBannerContent .boldTitle {
+		font-size: 40px;
+	}
+	.servicesMainWrap .servicesBanner .aboutBannerCard {
+		max-width: 220px;
+		bottom: -29px !important;
+	}
+	.aboutBannerCard {
+		max-width: 190px;
+		bottom: -75px !important;
+	}
+	.cd-card {
+		margin: 0 auto;
+	}
+	.indexSection4 .imgWrap::before {
+	   display:none;
+	}
+	.rightContent {
+		text-align: center;
+		align-items: center;
+	}
+	.genBtnStyle {
+		font-size: 14px;
+	}
+	.indexSection1 .bannerContent .actions a {
+		padding: 12px 35px;
+	}
+	.indexSection1 .cards {
+		display: none;
+	}
+	.indexSection1 .bannerContent .lightTitle {
+		letter-spacing: 5px;
+	}
+	.indexSection1 .bannerContent .boldTitle {
+		font-size: 25px;
+	}
+	.indexSection1 .right-center {
+		max-width: 150px;
+		max-height: 150px;
+	}
+	.indexSection1 .swapper {
+		min-width: 150px;
+		max-width: 150px;
+		bottom:11%;
+	}
+	.indexSection1 .car {
+		min-width: 300px;
+		max-width: 300px;
+		bottom: 9%;
+	}
+	.pump {
+		max-width: 250px;
+		max-height: 380px;
+	}	
+	.indexSection6 .blogWRap .blogImg .date {
+		bottom: -18%;
+		left: 8%;
+	}
+	/*INDEX PAGE*/
+	.index-sec-4 .info-box{
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		padding: 30px 25px;
+		right: 0;
+	}
+	.index-4-text .heading {
+	    font-size: 34px;
+	    line-height: 1.2;
+	}
+	.index-5-text .sub-heading {
+    	margin-bottom: 10px;
+	}
+	.index-5-text .heading {
+    	font-size: 38px;
+	}
+	.index-sec-5:before {
+    	height: 60px;
+	}
+	.index-sec-5:after {
+    	height: 60px;
+	}
+	.index-5-text {
+    	padding: 150px 0 0px 0;
+	}
+	.index-sec-5 .img-box{
+		top: 50px;
+		padding: 0 30px;
+	}
+	.index-sec-6 {
+    	padding-top: 120px;
+	}
+	.gen-sec-top .heading {
+    	font-size: 36px;
+	}
+	.product-card {
+	    max-width: 400px;
+	    margin: 0 auto;
+	    margin-bottom: 45px;
+	}
+	.news-card{
+		max-width: 400px;
+    	margin: 0 auto;
+	}
+	/*CONTACT PAGE*/
+	.contact-2-text > div{
+		width: 100%;
+		padding-right: 0px;
+	}
+}
+@media only screen and (max-width:480px){
+	/*INDEX PAGE*/
+	.index-3-tabs-wrap .nav-item {
+    	width: 100%;
+	}
+	.index-3-tabs-wrap .nav-link{
+		height: 70px;
+	}
+	.index-2-card .icon {
+    	padding-bottom: 20px;
+	}
+	.index-2-text .heading {
+    	font-size: 36px;
+	}
+	.index-2-card p {
+    	font-size: 16px;
+	}
+}
+@media only screen and (max-width:440px){
+	/*INDEX PAGE*/
+	.index-3-tabs-wrap .tab-pane {
+    	padding: 50px 30px 40px 30px;
+	}
+	.index-sec-4 .info-box .heading {
+    	font-size: 32px;
+	}
+	.indexSection3 .cardWrap .cardInner .ellipse {
+		width: 80px;
+		height: 80px;
+		left: -32px;
+		top: -13px;
+	}
+	.indexSection3 .cardWrap {
+		margin: 0 auto 50px;
+	}
+}
+@media only screen and (max-width:414px){
+	.login-modal form{
+		padding: 0 20px;
+	}
+	.login-modal h1 {
+    	font-size: 26px;
+	}
+}
+@media only screen and (max-width:375px){
+	/*INDEX PAGE*/
+	.news-card .desc {
+    	padding: 0 10px;
+	}
+	.footerTop .leftWrap .boldTitle {
+		font-size: 24px;
+	}
+}
+
+@media only screen and (max-width:385px){
+	.indexSection5 .chargingWrap {
+		padding: 20px;
+	}
+	.feature .icon img{
+		max-width:30px;
+	}
+	.servicesList .item .icon {
+		min-width: 60px;
+		min-height: 60px;
+	}
+	.pagination-2 .page-number {
+		padding: 8px 10px;
+	}
+	.indexSection3 .cardWrap {
+		max-width: 322px;
+		max-height: 380px;
+		min-height: 380px;
+		margin: 0 auto 30px;
+	}
+	.indexSection3 .cardWrap .cardInner {
+		padding: 45px 10px 30px 20px;
+	}
+	.imgWrap .creditCard {
+		min-width: 150px;
+		max-width: 150px;
+	}
+	.pump {
+		max-width: 200px;
+		max-height: 300px;
+	}
+	.indexSection6 .blogWRap .blogImg .date {
+		bottom: -18%;
+		left: -1%;
+	}
+	.aboutSecFour .rightImgWrap .relImg {
+		max-width: 350px;
+		min-height: 350px;
+		max-height: 350px;
+	}
+	.rightContent .boldTitle {
+		font-size: 24px;
+	}
+	.aboutSecTwo .rightImgWrap .absImgBottom {
+		max-width: 120px;
+		min-width: 120px;
+		min-height: 120px;
+		max-height: 120px;
+	}
+	.aboutSecTwo .rightImgWrap .absImgMiddle {
+		max-width: 120px;
+		min-height: 120px;
+		max-height: 120px;
+	}
+	.aboutSecFour .rightImgWrap .extraTop {
+		max-width: 120px;
+		min-width: 120px;
+		min-height: 120px;
+		max-height: 120px;
+	}
+	.aboutSecThree .bottomImg {
+		max-width:280px;
+	}	
+	.featureBox.blueGrad {
+		margin-top: 50px;
+	}
+	.serviceSectionSix .benefitsList span {
+		max-width: 120px;
+		min-width: 120px;
+		min-height: 120px;
+		max-height: 120px;
+	}
+	.serviceSectionSix .benefitsList span img {
+		min-height: 120px;
+		max-width: 120px;
+	}
+	.serviceSectionSix .benefitsList {
+		flex-direction: column;
+		max-width: 215px;
+		border-radius: 30px;
+	}	
+	.serviceSectionSix .benefitsList .benefitsContent {
+		padding: 10px 0px 15px 0;
+		text-align: center;
+	}
+	.fuelCardSectionFour .boldTitle {
+		font-size: 35px;
+	}
+	.fuelCardSectionTwo .boldTitle {
+		font-size: 30px;
+	}
+	.innerBannerContent .boldTitle {
+		font-size: 35px;
+	}
+	.indexSection5 .chargingWrap .rightWrap .genBtnStyle {
+		width: 185px;
+	}
+	.indexSection5 .chargingWrap .rightWrap .text {
+		max-width: 165px;
+	}
+	.indexSection5 .chargingWrap .rightWrap .boldTitle {
+		font-size: 30px;
+	}
+	.indexSection3 .mainDesc .boldTitle {
+		font-size: 28px;
+	}	
+	.rightContent .boldTitle {
+		font-size: 28px;
+	}
+	.indexSection2 {
+		padding: 50px 0;
+	}
+	.indexSection1 .right-center {
+		max-width: 100px;
+		max-height: 100px;
+	}
+	.normalText {
+		font-size: 16px;
+	}
+	.indexSection1 .bannerContent .boldTitle {
+		font-size: 20px;
+	}
+	.indexSection1 .bannerContent .actions a {
+		padding: 12px 20px;
+	}
+	.footerTop .leftWrap .boldTitle {
+		font-size: 18px;
+		text-align: center;
+	}
+}
